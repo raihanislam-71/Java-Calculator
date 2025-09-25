@@ -15,7 +15,7 @@ public class SimpleCalculator {
         f.setSize(300, 390);
         f.setLayout(null);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        f.getContentPane().setBackground(new Color(236, 239, 241));
+        f.getContentPane().setBackground(new Color(244, 253, 255));
         // f.setVisible(true);
         
         // Display
@@ -24,7 +24,8 @@ public class SimpleCalculator {
         display.setEditable(false);
         display.setHorizontalAlignment(JTextField.RIGHT);
         display.setFont(new Font("Segoe UI", Font.BOLD, 28));
-        display.setBackground(new Color(236, 239, 241));
+        // display.setBackground(new Color(236, 239, 241));
+        display.setBackground(new Color(244, 253, 255));
         display.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10)); //padding
         f.add(display);
                 
