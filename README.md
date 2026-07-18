@@ -4,7 +4,7 @@ A simple desktop calculator built with **Java Swing**. This project performs bas
 
 ## 📸 Preview
 
-![Calculator UI](Screenshot.png)
+![Calculator UI]([Screenshot.png](https://github.com/raihanislam-71/Java-Calculator/blob/e0806c27a485f5dd64f28c44880f83dc4ebe5f30/Screenshot%202026-07-18%20154012.png))
 
 ## ✨ Features
 
